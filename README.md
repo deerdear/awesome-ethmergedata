@@ -46,14 +46,14 @@ The resources cover different categories of data. For ease of use, the resources
 **Supply**: Amount of eth in circulation and staked
 
 ## Twitter-accounts
-| <div style="width:290px">Description</div>| URL | Coverage | Interesting because | Affiliation |
+| <div style="width:290px">Description</div> | <div style="width:50px">URL</div> | <div style="width:100px">Coverage</div> | <div style="width:290px">Interesting because</div> | Affiliation |
 |:--------|:--|:--|:--|:--|
-EthStakerBot tweeting high proposer payments to validators | https://twitter.com/mevproposerbot?s=21&t=xgb8KRm9heGyFERearZuKQ | MEV-boost, Rewards | In the last week (28.09-05.10) the highest payment to validator was 30.896 ETH | Personal |
-Tweets big MEV rewards|https://twitter.com/MevBoostBot | MEV, Rewards | 8 ETH paid out in miner rewards in one bundle | 
-EF guy and definer of relay monitor specs|https://twitter.com/ralexstokes|Twitter account|MEV-boost, Relay|https://twitter.com/ralexstokes/status/1573314707586686976| EF |
-BloXroute COO | https://twitter.com/eyalmarkov |  Builder, Relay, Rewards, Validator | https://twitter.com/eyalmarkov/status/1572616363054612486| BloXroute |
-Co-founder of Prysm labs and builder of Eth client|https://twitter.com/terencechain |  Blocks, Validator | https://github.com/rated-network/eth2REKT | Prysmatic labs
-Data analysts highlighting  findings on block builders and others| https://twitter.com/blink_labs_xyz |  Builder, Relay, Validator | https://twitter.com/blink_labs_xyz/status/1572687125136678912/photo/1 | Blink Labs
+EthStakerBot tweeting high proposer payments to validators | [Link](https://twitter.com/mevproposerbot?s=21&t=xgb8KRm9heGyFERearZuKQ) | MEV-boost, Rewards | In the last week (28.09-05.10) the highest payment to validator was 30.896 ETH | Personal |
+Tweets big MEV rewards|[Link](https://twitter.com/MevBoostBot) | MEV, Rewards | 8 ETH paid out in miner rewards in one bundle | ? |
+EF guy and definer of relay monitor specs|[Link](https://twitter.com/ralexstokes)|MEV-boost, Relay| [Nice post](https://twitter.com/ralexstokes/status/1573314707586686976)| EF |
+BloXroute COO | [Link](https://twitter.com/eyalmarkov) |  Builder, Relay, Rewards, Validator | [Nice post](https://twitter.com/eyalmarkov/status/1572616363054612486)| BloXroute |
+Co-founder of Prysm labs and builder of Eth client|[Link](https://twitter.com/terencechain) |  Blocks, Validator | [Nice thing he linked to](https://github.com/rated-network/eth2REKT) | Prysmatic labs
+Data analysts highlighting  findings on block builders and others| [Link](https://twitter.com/blink_labs_xyz) |  Builder, Relay, Validator | [Nice post](https://twitter.com/blink_labs_xyz/status/1572687125136678912/photo/1) | Blink Labs
 
 ## Dashboards
 | <div style="width:290px">Description</div> | <div style="width:50px">URL</div> | <div style="width:100px">Coverage</div> | <div style="width:290px">Interesting because</div> | Affiliation |
@@ -91,4 +91,4 @@ Relay list for Mainnet|[Link](https://github.com/remyroy/ethstaker/blob/main/MEV
 Full data dump from the FB relay|[Link](https://boost-relay-data-public.s3.us-east-2.amazonaws.com/index.html) | Blocks, Fees, Gas, MEV-boost, Relay, Rewards, Validator|No need to crawl the API anymore, just download raw data in a CSV/JSON!|Flashbots
 
 
-### Thanks to everyone who 
+### Thanks to everyone who keeps putting out amazing data-resources!
